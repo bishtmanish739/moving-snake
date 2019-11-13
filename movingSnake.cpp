@@ -41,7 +41,7 @@ for(int i=0;i<screensize;i++){
             system("cls");
 
         }
-cout<<"****************THANKS GOD SNAKE HAS GONE press x to exit";cout<<endl;cout<<"*********************************";
+cout<<"****************THANK GOD SNAKE HAS GONE press x to exit";cout<<endl;cout<<"*********************************";
 cin>>screensize;
 
 
